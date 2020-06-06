@@ -8,7 +8,7 @@ function MediaCard(props) {
         <br></br>
         <p>{props.body}</p>
         <br></br>
-        <img src = "https://picsum.photos/seed/picsum/221/101" alt="Picture"/>
+        <img src = "https://picsum.photos/seed/picsum/221/101" alt="River"/>
     </div>
   );
 }
