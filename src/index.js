@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import MediaCard from './MediaCard.js'
 import Gate from './Gate.js'
-import App from './App';
+//import App from './App';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
